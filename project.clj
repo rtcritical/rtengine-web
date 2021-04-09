@@ -1,4 +1,4 @@
-(defproject rtengine-web "0.0.1"
+(defproject rtcritical/rtengine-web "0.0.1"
   :description "Web/HTTP wrapper for RTEngine."
   :url "https://github.com/RTCritical/RTEngine Web"
   :license {:name "MIT"

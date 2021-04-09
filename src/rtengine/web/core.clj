@@ -1,4 +1,4 @@
-(ns rtengine-web.core)
+(ns rtengine.web.core)
 
 
 (defn foo "I don't do a whole lot."

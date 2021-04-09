@@ -1,6 +1,6 @@
-(ns rtengine-web.core-test
+(ns rtengine.web.core-test
   (:require [clojure.test :refer :all]
-            [rtengine-web.core :refer :all]))
+            [rtengine.web.core :refer :all]))
 
 
 (deftest a-test
